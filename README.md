@@ -1,4 +1,4 @@
-![Link Narrativas Interativas](img\capaBig_resized.jpg)
+![Link Narrativas Interativas](img/capaBig_resized.jpg)
 
 # O que é?
 Para Quem os Ventos Sopram é um Role-Playing Game (RPG) baseado em Texto. O projeto foi desenvolvido pela matéria de Introdução à Hipermídia, disciplina obrigatória da grade curricular do curso de Imagem e Som da Universidade Federal de São Carlos. As aulas foram conduzidas pelo professor [Leonardo Antônio de Andrade Giani](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=BBF39C14D568DFE8EE2B2B8C576C2A82.buscatextual_0), professor do curso de graduação de Imagem e Som, pesquisador em Narrativas Interativas, design de jogos de tabuleiro e RPGs, e co-criador do [Opera RPG](https://operarpg.com.br/sobre-o-opera/). 
@@ -27,14 +27,14 @@ Albert Burakh, protagonista da história, foi modelado a partir do Haruspex do j
 
 
 ### Imagens:
-Foi utilizado imagens geradas pelo Midjourney, sempre tendo em mente uma unidade estética entre elas. Tentaado buscar uma temática com menos esperança, foi utillizados prompts como 
+As imagens foram geradas pelo Midjourney, com atenção especial para garantir uma unidade estética coesa entre elas. Para capturar uma temática mais sombria e desesperançada, foram utilizados prompts como:
 
 ```
  Oil Painting
  Baroque
  Francisco Goya
  Chiaroscuro
- Black Paintings
+ Goya's Black Paintings
 ```
 
 
